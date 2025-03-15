@@ -362,3 +362,10 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /appsettings.json
+/Migrations/20250315160520_add-identity-login.Designer.cs
+/Migrations/20250315160520_add-identity-login.cs
+/Migrations/20250315123013_FixDeleteCascade.Designer.cs
+/Migrations/20250315123013_FixDeleteCascade.cs
+/Migrations/20250315194751_Initial.Designer.cs
+/Migrations/20250315194751_Initial.cs
+/Migrations/AppDbContextModelSnapshot.cs
